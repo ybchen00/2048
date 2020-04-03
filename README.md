@@ -1,8 +1,10 @@
-Main algorithm is in PlayerAI_3.py
+##2048 Game Solver
+
+Main algorithm is in PlayerAI.py
 
 The rest are helper classes
 
-Test by running GameManager_3.py
+Test by running GameManager.py
 
 Reach at least 1024 60% of the time
 Reach at least 2048 40% of the time
