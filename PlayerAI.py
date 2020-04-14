@@ -2,7 +2,7 @@
 author@Yibing Chen(yc3578)
 """
 import random
-from BaseAI_3 import BaseAI
+from BaseAI import BaseAI
 import sys
 import time
 
